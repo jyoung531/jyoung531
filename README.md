@@ -8,6 +8,14 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
